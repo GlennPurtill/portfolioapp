@@ -1,0 +1,16 @@
+img{
+    padding: 5px;
+}
+.container{
+    margin-bottom: 30px;
+    font-family: Quicksand;
+}
+
+.img{
+    animation-delay: 1s;
+    animation-duration: 2s
+}
+.para{
+    animation-delay: 1.5s;
+    animation-duration: 1.5s
+}

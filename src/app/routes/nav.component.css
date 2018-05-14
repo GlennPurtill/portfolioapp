@@ -1,0 +1,15 @@
+.navbar{
+    position: relative;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.562);
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+a{
+    color: white;
+    font-family: Quicksand;
+}
+.navbar-header{
+    font-family: Quicksand;
+}
